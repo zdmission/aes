@@ -1,0 +1,23 @@
+{
+  "name": "aes",
+  "version": "1.0.0",
+  "description": "node版本的AES加解密封装方法，以及crypto-js库提供的方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdmission/aes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdmission/aes/issues"
+  },
+  "homepage": "https://github.com/zdmission/aes#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
